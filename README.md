@@ -1,5 +1,9 @@
 # visible-human-project
-This repo contains a set of scripts to simplify the download and creation of raw YUV 4:2:2 data from the [Visible Human Project](https://www.nlm.nih.gov/research/visible/getting_data.html). Data is downloaded by the ftp [here](ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Visible-Human/Female-Images/Fullcolor/). 
+This repo contains a set of scripts to simplify the download and creation of raw YUV 4:2:2 data from the [Visible Human Project](https://www.nlm.nih.gov/research/visible/getting_data.html). Data is downloaded by the ftp: 
+```
+ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Visible-Human/Female-Images/Fullcolor/.
+```
+![](avf1432a.png)
 
 
 The result is merged into a YUV file that can be played with for example the [YUView](https://github.com/IENT/YUView). Conversion from YUV to other formats is left as an excecise.
